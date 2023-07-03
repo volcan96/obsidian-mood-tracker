@@ -97,7 +97,7 @@ export const defaultEmotions: EmotionSection[] = [
 			"helpless",
 			"frightened",
 			"panicking",
-			"hystetical",
+			"hysterical",
 			"insecure",
 			"inferior",
 			"inadequate",
